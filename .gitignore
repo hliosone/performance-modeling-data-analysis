@@ -1,0 +1,26 @@
+# Fichiers générés par PyCharm
+.idea/
+*.iml
+
+# Fichiers Python compilés
+*.pyc
+__pycache__/
+
+# Environnements virtuels
+venv/
+env/
+
+# Fichiers de configuration locaux ou secrets
+*.env
+*.key
+*.pem
+
+# Données sensibles ou spécifiques à la machine
+.DS_Store
+Thumbs.db
+
+# Fichiers notebooks générés automatiquement
+.ipynb_checkpoints/
+
+# Fichiers de logs
+*.log
